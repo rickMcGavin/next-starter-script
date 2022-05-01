@@ -63,15 +63,15 @@ writePaths=(
   "./.eslintrc"
 )
 readUrls=(
-  "https://gist.githubusercontent.com/rv-rmcgavin/7ec4e5b3dcc0dbda30c343e5fcfdff3f/raw/5f1d7dfe915286baecc78397332a74f5116b72a2/.babelrc"
-  "https://gist.githubusercontent.com/rv-rmcgavin/7ec4e5b3dcc0dbda30c343e5fcfdff3f/raw/524e8b864a42b4ac257cbd5ff1ab640e5c3c54af/_document.tsx"
-  "https://gist.githubusercontent.com/rv-rmcgavin/7ec4e5b3dcc0dbda30c343e5fcfdff3f/raw/41e1fef5a02eea57b0af54aad33845fed599bbdf/theme.ts"
-  "https://gist.githubusercontent.com/rv-rmcgavin/7ec4e5b3dcc0dbda30c343e5fcfdff3f/raw/de3cf9fdc2b31139eb6777420dd9c918f7140850/global.ts"
-  "https://gist.githubusercontent.com/rv-rmcgavin/7ec4e5b3dcc0dbda30c343e5fcfdff3f/raw/838e47f49a833515a94555e6c4f07eac17e2c52b/_app.tsx"
-  "https://gist.githubusercontent.com/rv-rmcgavin/7ec4e5b3dcc0dbda30c343e5fcfdff3f/raw/c369dd7414015b8c6ce86a62403b9e58a3a9c776/styled.d.ts"
-  "https://gist.githubusercontent.com/rv-rmcgavin/7ec4e5b3dcc0dbda30c343e5fcfdff3f/raw/724b7fbf01b61db8a131b3d28a773bccc150988e/index.tsx"
-  "https://gist.githubusercontent.com/rickMcGavin/6698c9413a3cfb4969c560d2269dfe9c/raw/30274ab74136c5aa35978fb786b4c089f3b43142/.eslintrc.json"
-  "https://gist.githubusercontent.com/rickMcGavin/6698c9413a3cfb4969c560d2269dfe9c/raw/30274ab74136c5aa35978fb786b4c089f3b43142/.prettierrc.json"
+  "https://raw.githubusercontent.com/rickMcGavin/next-starter-script/main/starter-files/.babelrc"
+  "https://raw.githubusercontent.com/rickMcGavin/next-starter-script/main/starter-files/_document.tsx"
+  "https://raw.githubusercontent.com/rickMcGavin/next-starter-script/main/starter-files/theme.ts"
+  "https://raw.githubusercontent.com/rickMcGavin/next-starter-script/main/starter-files/global.ts"
+  "https://raw.githubusercontent.com/rickMcGavin/next-starter-script/main/starter-files/_app.tsx"
+  "https://raw.githubusercontent.com/rickMcGavin/next-starter-script/main/starter-files/styled.d.ts"
+  "https://raw.githubusercontent.com/rickMcGavin/next-starter-script/main/starter-files/index.tsx"
+  "https://raw.githubusercontent.com/rickMcGavin/next-starter-script/main/starter-files/.eslintrc.json"
+  "https://raw.githubusercontent.com/rickMcGavin/next-starter-script/main/starter-files/.prettierrc.json"
 )
 
 echo "Downloading and saving files from gists"
